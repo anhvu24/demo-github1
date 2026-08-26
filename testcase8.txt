@@ -1,2 +1,4 @@
 testcase 8
 
+update lan 1
+
