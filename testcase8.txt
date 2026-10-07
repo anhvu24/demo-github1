@@ -4,4 +4,3 @@ update lan 1
 update lan 2
 
 update lan 4
-update lan 5
